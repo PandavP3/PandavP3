@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradyumna Pravin Pnadav</h1>
+<h1 align="center">Hi 👋, I'm Pradyumna Pravin Pandav</h1>
 <h3 align="center">A Cyber Security enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandavp3&label=Profile%20views&color=0e75b6&style=flat" alt="pandavp3" /> </p>
@@ -31,9 +31,9 @@
 
 <h3 align="left">TryHackMe:</h3>
 <p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pradyumna24panda.png" alt="Your Image Badge" /><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pradyumna24pandav.png" alt="Your Image Badge" /><br>
   <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" width="120"/>
-  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="120"/>
+  <img src="https://tryhackme.com/img/badges/league-saphire.svg" width="120"/>
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="120"/>
 
 <h3 align="left">HTB Badges:</h3>
